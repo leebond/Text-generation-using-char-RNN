@@ -1,0 +1,704 @@
+INTEL SOFTWARE RESELLER LICENSE AGREEMENT
+
+THIS LICENSE GOVERNS YOUR USE OF THE ACCOMPANYING SOFTWARE AND DOCUMENTATION (“SOFTWARE”). BY INSTALLING OR COPYING ALL OR ANY PART OF THE SOFTWARE COMPONENTS IN THIS PACKAGE, YOU (“YOU” OR “LICENSEE”) AGREE TO THE TERMS OF THIS AGREEMENT.  DO NOT INSTALL OR COPY THE SOFTWARE UNTIL YOU HAVE CAREFULLY READ AND AGREED TO THE FOLLOWING TERMS AND CONDITIONS.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PROMPTLY RETURN THE SOFTWARE TO INTEL CORPORATION (“INTEL”).
+
+This license applies to You if You are an original equipment manufacturer (“OEM”) or any other reseller (“Reseller”) in the business of manufacturing and/or distributing computer Intel-based hardware products (“Intel Hardware”) to end users (“End Users”). 
+
+1.	COPYRIGHT LICENSE RIGHTS: Intel grants you a limited, non-exclusive, royalty-free, non-sublicenseable copyright license, subject to the terms and restrictions herein, to reproduce, copy, modify (as limited below) and redistribute the Software to others in such chain of manufacture or distribution and/or to End Users directly for use only with Intel Hardware, provided distribution to End Users must be under substantially the same license terms specified in the attached end user license agreement set forth in the Appendix.
+
+2.	RIGHTS TO MODIFY: Your rights to modify the Software are limited to the right to: 
+
+(i)	modify the Software’s documentation to include your company’s logo, branding and look and feel (color scheme, fonts, graphical elements) in place of the existing look and feel. You shall retain all copyright notices contained in such documentation but may add your copyright notice in addition to existing notices; and
+
+(ii)	modify the Software’s default settings as permitted by the tool supplied by Intel GUI to allow for customization substitute your company’s own branding and “look and feel” (color scheme, graphical elements, fonts) in place of its existing branding and look and feel settings.
+    
+3.	PATENT RIGHTS: Intel also grants you a non-transferable, non-exclusive, royalty-free, non-sublicenseable license under Intel’s Licensed Patent Claims to distribute the Software, where “Intel’s Licensed Patent Claims” means those claims of Intel’s patents that (a) are infringed by the Software alone and not in combination, in their unmodified form, as furnished by Intel to You and (b) Intel has the right to license.
+
+4.	LICENSE RESTRICTIONS: You must not: 
+
+(i)	Render the Software  incomplete, inaccurate or misleading;
+(ii)	Use or distribute the Software for any purpose other than to support Your Intel-hardware based computer, board/chassis combinations, and/or other Intel products 
+(iii)	Charge a fee of any kind for the Software you distribute;
+(iv)	Use trademarks, logos or trade names appearing in the Software provided hereunder for any other purpose. 
+(v)	Make any statement that your product is "certified," or that its performance is guaranteed, by Intel;
+(vi)	disclose, distribute or transfer any part of the Software except as provided in this Agreement, and you agree to prevent unauthorized copying of the Software;
+(vii)	reverse engineer, decompile, or disassemble the Software; or
+(viii)	sublicense your rights to the Software. 
+
+5.	OTHER CONDITIONS: You must:
+
+(i)	Retain all legal disclaimers contained in the Software, including without limitation disclaimers regarding warranty, errata and Intel’s right to make changes to specifications and product descriptions at any time;
+(ii)	Upon Intel's release of an update, upgrade or new version of the Software, make reasonable efforts to discontinue distribution of the portions of the Software that you are licensed hereunder to distribute, and make reasonable efforts to distribute such updates, upgrades or new versions to your customers who have received the Software;
+(iii)	Be solely responsible to your customers for any update or support obligation and other liability which may arise from your distribution; and
+(iv)	Indemnify, hold harmless, and defend Intel and its suppliers from and against any claims or lawsuits, including attorney's fees that arise or result from your distribution or modification of any part of the Software.
+
+6.	THIRD PARTY LICENSES: The Software may contain the software and other property of third party suppliers, some of which may be identified in, and licensed in accordance with, an enclosed “third party license.txt” file or other similarly-named text or file.
+
+7. 	OWNERSHIP OF SOFTWARE AND COPYRIGHTS: Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided above, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. 
+
+8.  	DISCLAIMER OF WARRANTY: Intel warrants that the media on which the Software is furnished will be free from defects in material and workmanship under normal use for a period of ninety (90) days from the date of purchase.  Intel's entire liability and your exclusive remedy shall be the replacement of the Software if the media on which the Software is furnished proves to be defective. This warranty is void if the media defect has resulted from accident, abuse, or misapplication.  Any replacement of media will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. Except as provided above, the Software is provided "AS IS" without warranty of any kind, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE.  
+
+9.  	LIMITATION OF LIABILITY: NEITHER INTEL NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF USE, INTERRUPTION OF BUSINESS, NOR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHETHER UNDER THIS AGREEMENT OR OTHERWISE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+10.  AUDIT: Intel reserves the right to conduct or have conducted audits to verify Your compliance with this Agreement.
+
+11.	LICENSE TO USE COMMENTS AND SUGGESTIONS:  This Agreement does NOT obligate You to provide Intel with comments or suggestions regarding the Software.  However, should You provide Intel with comments or suggestions for the modification, correction, improvement or enhancement of (a) the Software or (b) Intel products or processes which work with the Software, you hereby grant to Intel a non-exclusive, worldwide, royalty-free license, with the right to sublicense Intel’s licensees and customers, under your intellectual property rights, the rights to use and disclose such comments and suggestions in any manner Intel chooses and to display, perform, copy, make, have made, use, sell, and otherwise dispose of Intel’s and its sublicensees’ products embodying such comments and suggestions in any manner and via any media Intel chooses, without reference to the source and subject to any confidentiality obligations that may exist between You and Intel.
+
+12.  TERMINATION OF THIS LICENSE: Intel may terminate this license at any time if You are in breach of any of its terms or conditions.  Upon termination, You will immediately destroy the Software or return all copies of the Software to Intel along with any copies You have made. 
+
+13.  U.S.  GOVERNMENT RESTRICTED RIGHTS: The Software isprovided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR54-227-14 and DFAR252-227-7013 et seq or its successor.  Use of this Software by the Government constitutes acknowledgment of Intel's proprietary rights in the Software. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95054.
+
+14.  EXPORT LAWS: You agree that neither the Software nor the direct product thereof is intended to be shipped either directly or indirectly to country groups Q, S, W, Y, Z, Afghanistan or the People's Republic of China, unless a validated export license is obtained from the U.S. Department of Commerce.
+
+15.  APPLICABLE LAWS: This Agreement is governed by the laws of the state of Delaware, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel. 
+
+Your specific rights may vary from country to country.
+ 
+APPENDIX
+
+INTEL END USER SOFTWARE LICENSE AGREEMENT
+
+THIS LICENSE GOVERNS YOUR USE OF THE ACCOMPANYING SOFTWARE AND DOCUMENTATION (“SOFTWARE”). BY INSTALLING OR COPYING ALL OR ANY PART OF THE SOFTWARE COMPONENTS IN THIS PACKAGE, YOU (“YOU” OR “LICENSEE”) AGREE TO THE TERMS OF THIS AGREEMENT.  DO NOT INSTALL OR COPY THE SOFTWARE UNTIL YOU HAVE CAREFULLY READ AND AGREED TO THE FOLLOWING TERMS AND CONDITIONS.  IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PROMPTLY RETURN THE SOFTWARE TO INTEL CORPORATION (“INTEL”).
+
+1. 	LICENSE: Intel hereby grants You a license under its copyrights to copy Intel’s Software in binary form (the “Software”) onto your organization's computers for your organization's internal use only in connection with an Intel hardware-based server board, system or accessory (the “Intel Hardware”) for which such Software has been provided.  You may make a reasonable number of back-up copies of the Software, subject to these conditions: 
+
+(a)	You may not disclose, distribute or transfer any part of the Software except as provided in this Agreement, and you agree to prevent unauthorized copying of the Software.
+(b)	You may not reverse engineer, decompile, or disassemble the Software.
+(c)	You may not sublicense the Software. 
+(d)	The Software may contain the software and other property of third party suppliers, some of which may be identified in, and licensed in accordance with, an enclosed license.txt file or other text or file.
+(e)	Intel has no obligation to provide any support or technical assistance for the Software.
+
+2. 	OWNERSHIP OF SOFTWARE AND COPYRIGHTS: Title to all copies of the Software remains with Intel or its suppliers. The Software is copyrighted and protected by the laws of the United States and other countries, and international treaty provisions. You may not remove any copyright notices from the Software. Intel may make changes to the Software, or to items referenced therein, at any time without notice, but is not obligated to support or update the Software. Except as otherwise expressly provided above, Intel grants no express or implied right under Intel patents, copyrights, trademarks, or other intellectual property rights. You may transfer the Software only if the recipient agrees to be fully bound by these terms and if you retain no copies of the Software. Transfer of the license terminates your right to use the Software.
+
+3.  	DISCLAIMER OF WARRANTY: Intel warrants that the media on which the Software is furnished will be free from defects in material and workmanship under normal use for a period of ninety (90) days from the date of purchase.  Intel's entire liability and your exclusive remedy shall be the replacement of the Software if the media on which the Software is furnished proves to be defective. This warranty is void if the media defect has resulted from accident, abuse, or misapplication.  Any replacement of media will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. Except as provided above, the Software is provided "AS IS" without warranty of any kind, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE.  
+
+4.  	LIMITATION OF LIABILITY: NEITHER INTEL NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY LOSS OF PROFITS, LOSS OF USE, INTERRUPTION OF BUSINESS, NOR FOR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHETHER UNDER THIS AGREEMENT OR OTHERWISE, EVEN IF INTEL HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5.  	AUDIT: Intel reserves the right to conduct or have conducted audits to verify Your compliance with this Agreement.
+
+6.	LICENSE TO USE COMMENTS AND SUGGESTIONS:  This Agreement does NOT obligate You to provide Intel with comments or suggestions regarding the Software.  However, should You provide Intel with comments or suggestions for the modification, correction, improvement or enhancement of (a) the Software or (b) Intel products or processes which work with the Software, you hereby grant to Intel a non-exclusive, worldwide, royalty-free license, with the right to sublicense Intel’s licensees and customers, under your intellectual property rights, the rights to use and disclose such comments and suggestions in any manner Intel chooses and to display, perform, copy, make, have made, use, sell, and otherwise dispose of Intel’s and its sublicensees’ products embodying such comments and suggestions in any manner and via any media Intel chooses, without reference to the source and subject to any confidentiality obligations that may exist between You and Intel.
+
+7.  TERMINATION OF THIS LICENSE: Intel may terminate this license at any time if You are in breach of any of its terms or conditions.  Upon termination, You will immediately destroy the Software or return all copies of the Software to Intel along with any copies You have made. 
+
+8.  U.S.  GOVERNMENT RESTRICTED RIGHTS: The Software is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR54-227-14 and DFAR252-227-7013 et seq or its successor.  Use of this Software by the Government constitutes acknowledgment of Intel's proprietary rights in the Software. Contractor or Manufacturer is Intel Corporation, 2200 Mission College Blvd., Santa Clara, CA 95054.
+
+9,  EXPORT LAWS: You agree that neither the Software nor the direct product thereof is intended to be shipped either directly or indirectly to country groups Q, S, W, Y, Z, Afghanistan or the People's Republic of China, unless a validated export license is obtained from the U.S. Department of Commerce.
+
+10.  APPLICABLE LAWS: This Agreement is governed by the laws of the state of Delaware, excluding its principles of conflict of laws and the United Nations Convention on Contracts for the Sale of Goods. You may not export the Software in violation of applicable export laws and regulations. Intel is not obligated under any other agreements unless they are in writing and signed by an authorized representative of Intel. 
+
+Your specific rights may vary from country to country.
+
+END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+
+MICROSOFT WINDOWS INSTALLER VERSION 3.1
+
+IMPORTANT—READ CAREFULLY: This End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity) and Microsoft Corporation (“Microsoft”) for the Microsoft software that accompanies this EULA, which includes computer software and may include associated media, printed materials, “online” or electronic documentation, and Internet-based services (“Software”).  An amendment or addendum to this EULA may accompany the Software.  YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE. IF YOU DO NOT AGREE, DO NOT INSTALL, COPY, OR USE THE SOFTWARE; YOU MAY RETURN IT TO YOUR PLACE OF PURCHASE (IF APPLICABLE) FOR A FULL REFUND.
+
+1.	GRANT OF LICENSE.  Microsoft grants you the following rights provided that you comply with all terms and conditions of this EULA:  You may install and use the Software on a single computer solely for the purpose of designing, developing, and testing applications for use with Microsoft Windows 2000 Service Pack 3, Windows 2000 Service Pack 4, Windows XP, Windows XP Service Pack 1, Windows Server 2003 and Windows XP Service Pack 2.  You may not use the Software to create files which are not compatible with the Microsoft Windows Installer file format. 
+1.1	Documentation.  You may make and use an unlimited number of copies of any documentation, provided that such copies shall be used only for personal purposes and are not to be republished or distributed (either in hard copy or electronic form) beyond your premises.
+1.2	Storage/Network Use. You may also store or install a copy of the Software on a storage device, such as a network server, used only to install or run the Software on computers used by a licensed end user in accordance with Section 1.1.  A single license for the Software may not be shared or used concurrently by multiple end users.
+2.	ADDITIONAL LICENSE RIGHTS -- REDISTRIBUTABLE CODE.  In addition to the rights granted in Section 1, certain portions of the Software, as described in this Section 2, are provided to you with additional license rights.  These additional license rights are conditioned upon your compliance with the distribution requirements and license restrictions described in Section 3.
+2.1	Sample Code. Microsoft grants you the right to: (a) use and modify the source code version of those portions of the Software identified as “Samples” in REDIST.TXT or elsewhere in the Software (“Sample Code”) for the sole purposes of designing, developing, and testing your Software(s), and (b) a limited, nonexclusive, royalty-free right to reproduce and distribute the Sample Code, along with any modifications thereof, in object and/or source code form.  For applicable redistribution requirements for Sample Code, see Section 3 below.
+2.2	Redistributable Code. Microsoft grants you a nonexclusive, royalty-free right to reproduce and distribute the object code form of any portion of the Software listed in REDIST.TXT (“Redistributable Code”).  For general redistribution requirements for Redistributable Code, see Section 3, below.  
+3.	DISTRIBUTION REQUIREMENTS AND OTHER LICENSE RIGHTS AND LIMITATIONS.  If you choose to exercise your rights under Section 2, any redistribution by you is subject to your compliance with Section 3.
+3.1	General Distribution Requirements.  
+(a)	If you choose to redistribute Sample Code, or Redistributable Code (collectively, the “Redistributables”) as described in Section 2, you agree:  (i) except as otherwise noted in Section 2.1 (Sample Code), to distribute the Redistributables only in object code form and in conjunction with and as a part of a software application product developed by you that adds significant and primary functionality to the Redistributables (“Licensee Software”); (ii) that the Redistributables only operate in conjunction with Microsoft Windows platforms and ) the application does not allow the use of the Redistributables for files which are not compatible with the Microsoft Windows Installer; (iii) the library code in the LIB directory may only be redistributed when linked into your application; (iv) that if the Licensee Software is distributed beyond Licensee’s premises or externally from Licensee’s organization, to distribute the Licensee Software containing the Redistributables pursuant to an end user license agreement (which may be “break-the-seal”, “click-wrap” or signed), with terms no less protective than those contained in this EULA; (v) not to use Microsoft’s name, logo, or trademarks to market the Licensee Software; (vi) to display your own valid copyright notice which shall be sufficient to protect Microsoft’s copyright in the Software; (vii) not to remove or obscure any copyright, trademark or patent notices that appear on the Software as delivered to you; (viii) to indemnify, hold harmless, and defend Microsoft from and against any claims or lawsuits, including attorney’s fees, that arise or result from the use or distribution of the Licensee Software; (ix) to otherwise comply with the terms of this EULA; and (x) agree that Microsoft reserves all rights not expressly granted.  
+You also agree not to permit further distribution of the Redistributables by your end users except you may permit further redistribution of the Redistributables by your distributors to your end-user customers if your distributors only distribute the Redistributables in conjunction with, and as part of, the Licensee Software, you comply with all other terms of this EULA, and your distributors comply with all restrictions of this EULA that are applicable to you. 
+(b)	If you use the Redistributables, then in addition to your compliance with the applicable distribution requirements described for the Redistributables, the following also applies.  Your license rights to the Redistributables are conditioned upon your not (i) creating derivative works of the Redistributables in any manner that would cause the Redistributables in whole or in part to become subject to any of the terms of an Excluded License; or (ii) distributing the Redistributables (or derivative works thereof) in any manner that would cause the Redistributables to become subject to any of the terms of an Excluded License.  An “Excluded License” is any license that requires as a condition of use, modification and/or distribution of software subject to the Excluded License, that such software or other software combined and/or distributed with such software be (x) disclosed or distributed in source code form; (y) licensed for the purpose of making derivative works; or (z) redistributable at no charge.
+4.	RESERVATION OF RIGHTS AND OWNERSHIP.  Microsoft reserves all rights not expressly granted to you in this EULA.  The Software is protected by copyright and other intellectual property laws and treaties. Microsoft or its suppliers own the title, copyright, and other intellectual property rights in the Software.  The Software is licensed, not sold.
+5.	LIMITATIONS ON REVERSE ENGINEERING, DECOMPILATION, AND DISASSEMBLY.  You may not reverse engineer, decompile, or disassemble the Software, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+6.	NO RENTAL/COMMERCIAL HOSTING. You may not rent, lease, lend or provide commercial hosting services with the Software.
+7.	CONSENT TO USE OF DATA.  You agree that Microsoft and its affiliates may collect and use technical information gathered as part of the product support services provided to you, if any, related to the Software.  Microsoft may use this information solely to improve our products or to provide customized services or technologies to you and will not disclose this information in a form that personally identifies you.   
+8.	LINKS TO THIRD PARTY SITES.  You may link to third party sites through the use of the Software.  The third party sites are not under the control of Microsoft, and Microsoft is not responsible for the contents of any third party sites, any links contained in third party sites, or any changes or updates to third party sites.  Microsoft is not responsible for webcasting or any other form of transmission received from any third party sites.  Microsoft is providing these links to third party sites to you only as a convenience, and the inclusion of any link does not imply an endorsement by Microsoft of the third party site.
+9.	ADDITIONAL SOFTWARE/SERVICES.  This EULA applies to updates, supplements, add-on components, or Internet-based services components, of the Software that Microsoft may provide to you or make available to you after the date you obtain your initial copy of the Software, unless we provide other terms along with the update, supplement, add-on component, or Internet-based services component.  Microsoft reserves the right to discontinue any Internet-based services provided to you or made available to you through the use of the Software.  
+10.	NOT FOR RESALE SOFTWARE.  Software identified as “Not For Resale” or “NFR,” may not be sold or otherwise transferred for value, or used for any purpose other than demonstration, test or evaluation.
+11.	ACADEMIC EDITION SOFTWARE.  To use Software identified as “Academic Edition” or “AE,” you must be a “Qualified Educational User.”   For qualification-related questions, please contact the Microsoft Sales Information Center/One Microsoft Way/Redmond, WA 98052-6399 or the Microsoft subsidiary serving your country.
+12.	EXPORT RESTRICTIONS.  You acknowledge that the Software is subject to U.S. export jurisdiction.  You agree to comply with all applicable international and national laws that apply to the Software, including the U.S. Export Administration Regulations, as well as end-user, end-use, and destination restrictions issued by U.S. and other governments.   For additional information see <http://www.microsoft.com/exporting/>.
+13.	SOFTWARE TRANSFER.  The initial user of the Software may make a one-time permanent transfer of this EULA and Software to another end user, provided the initial user retains no copies of the Software.  This transfer must include all of the Software (including all component parts, the media and printed materials, any upgrades, this EULA, and, if applicable, the Certificate of Authenticity).  The transfer may not be an indirect transfer, such as a consignment.  Prior to the transfer, the end user receiving the Software must agree to all the EULA terms.
+14.	TERMINATION.  Without prejudice to any other rights, Microsoft may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the Software and all of its component parts.
+15.	DISCLAIMER OF WARRANTIES. Microsoft and its suppliers provide the Software and support services (if any) AS IS AND WITH ALL FAULTS, and hereby disclaim all other warranties and conditions, whether express, implied or statutory, including, but not limited to, any (if any) implied warranties, duties or conditions of merchantability, of fitness for a particular purpose, of reliability or availability, of accuracy or completeness of responses, of results, of workmanlike effort, of lack of viruses, and of lack of negligence, all with regard to the Software, and the provision of or failure to provide support or other services, information, software, and related content through the Software or otherwise arising out of the use of the Software.  ALSO, THERE IS NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET POSSESSION, CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT WITH REGARD TO THE Software.
+16.	EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL MICROSOFT OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE SOFTWARE, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), MISREPRESENTATION, STRICT LIABILITY, BREACH OF CONTRACT OR BREACH OF WARRANTY OF MICROSOFT OR ANY SUPPLIER, AND EVEN IF MICROSOFT OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+17.	LIMITATION OF LIABILITY AND REMEDIES. NOTWITHSTANDING ANY DAMAGES THAT YOU MIGHT INCUR FOR ANY REASON WHATSOEVER (INCLUDING, WITHOUT LIMITATION, ALL DAMAGES REFERENCED HEREIN AND ALL DIRECT OR GENERAL DAMAGES IN CONTRACT OR ANYTHING ELSE), THE ENTIRE LIABILITY OF MICROSOFT AND ANY OF ITS SUPPLIERS UNDER ANY PROVISION OF THIS EULA AND YOUR EXCLUSIVE REMEDY HEREUNDER (EXCEPT FOR ANY REMEDY OF REPAIR OR REPLACEMENT ELECTED BY MICROSOFT WITH RESPECT TO ANY BREACH OF THE LIMITED WARRANTY) SHALL BE LIMITED TO THE GREATER OF THE ACTUAL DAMAGES YOU INCUR IN REASONABLE RELIANCE ON THE Software UP TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE Software OR US$5.00.  THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS (INCLUDING SECTIONS 15, 16 AND 17) SHALL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.
+18.	U.S. GOVERNMENT LICENSE RIGHTS. All Software provided to the U.S. Government pursuant to solicitations issued on or after December 1, 1995 is provided with the commercial license rights and restrictions described elsewhere herein.  All Software provided to the U.S. Government pursuant to solicitations issued prior to December 1, 1995 is provided with “Restricted Rights” as provided for in FAR, 48 CFR 52.227-14 (JUNE 1987) or DFAR, 48 CFR 252.227-7013 (OCT 1988), as applicable. 
+19.	APPLICABLE LAW.  If you acquired this Software in the United States, this EULA is governed by the laws of the State of Washington.  If you acquired this Software in Canada, unless expressly prohibited by local law, this EULA is governed by the laws in force in the Province of Ontario, Canada; and, in respect of any dispute which may arise hereunder, you consent to the jurisdiction of the federal and provincial courts sitting in Toronto, Ontario. If you acquired this Software in the European Union, Iceland, Norway, or Switzerland, then local law applies.  If you acquired this Software in any other country, then local law may apply. 
+20.	ENTIRE AGREEMENT; SEVERABILITY.  This EULA (including any addendum or amendment to this EULA which is included with the Software) are the entire agreement between you and Microsoft relating to the Software and the support services (if any) and they supersede all prior or contemporaneous oral or written communications, proposals and representations with respect to the Software or any other subject matter covered by this EULA.  To the extent the terms of any Microsoft policies or programs for support services conflict with the terms of this EULA, the terms of this EULA shall control.  If any provision of this EULA is held to be void, invalid, unenforceable or illegal, the other provisions shall continue in full force and effect.
+LIMITATION DES RECOURS; ABSENCE DE DOMMAGES INDIRECTS OU AUTRES. Microsoft et, dans la mesure maximale permise par les lois applicables, même si tout recours n’atteint pas son but essentiel, VOUS N’AVEZ DROIT À AUCUNS DOMMAGES, NOTAMMENT DES DOMMAGES INDIRECTS. Les termes  de la clause «Exclusion des dommages accessoires, indirects et de certains autres dommages » sont également intégrées à la présente garantie limitée. Certains États ou territoires ne permettent pas l’exclusion ou la limitation des dommages indirects ou accessoires de sorte que la limitation ou l’exclusion ci­dessus peut ne pas s’appliquer à vous. La présente garantie limitée vous donne des droits légaux spécifiques. Vous pouvez avoir d’autres droits qui peuvent varier d’un territoire ou d’un État à un autre. VOTRE RECOURS EXCLUSIF. La seule responsabilité obligation de Microsoft et de ses fournisseurs et votre recours exclusif  pour toute violation de la présente garantie limitée ou pour toute autre violation du présent contrat ou pour toute autre responsabilité relative au Logiciel seront, selon le choix de Microsoft exercé de temps à autre sous réserve de toute loi applicable, a) le remboursement du prix payé, le cas échéant, pour le Logiciel ou b) la réparation ou le remplacement du Logiciel qui ne respecte pas la présente garantie limitée et qui est retourné à Microsoft avec une copie de votre reçu. Vous recevrez la compensation choisie par Microsoft, sans frais, sauf que vous êtes responsable des dépenses que vous pourriez engager (p. ex., les frais d’envoi du Logiciel à Microsoft). La présente garantie limitée est nulle si la défectuosité du Logiciel est causée par un accident, un usage abusif, une mauvaise application, un usage anormal ou un virus. Tout Logiciel de remplacement sera garanti pour le reste de la période initiale de la garantie ou pendant trente (30) jours, selon la plus longue entre ces deux périodes. À l’extérieur des États-Unis ou du Canada, ces recours ou l’un quelconque des services de soutien technique offerts par Microsoft ne sont pas disponibles sans preuve d’achat d’une source internationale autorisée. Pour exercer votre recours, vous devez communiquer avec Microsoft et vous adresser au Microsoft Sales Information Center/One Microsoft Way/Redmond, WA 98052-6399, ou à la filiale de Microsoft de votre pays.
+DÉNI DE GARANTIES. La garantie limitée qui apparaît  ci-dessus constitue la seule garantie expresse qui vous est donnée et remplace toutes autres garanties expresses (s’il en est) crées par une publicité, un document,  un emballage ou une autre communication. Sauf en ce qui a trait à la garantie limitée et dans la mesure maximale permise par les lois applicables, le Logiciel et les services de soutien technique (le cas échéant) sont fournis TELS QUELS ET AVEC TOUS LES DÉFAUTS par Microsoft et ses fournisseurs, lesquels par les présentes dénient toutes autres garanties et conditions expresses, implicites ou en vertu de la loi, notamment, mais sans limitation, (le cas échéant) les garanties, devoirs ou conditions implicites de qualité marchande, d’adaptation à une fin particulière,  de fiabilité ou de disponibilité, d’exactitude ou d’exhaustivité des réponses, des résultats, des efforts déployés selon les règles de l’art, d’absence de virus et d’absence de négligence, le tout à l’égard du Logiciel et de la prestation ou de l’omission de la  prestation des services de soutien technique ou à l’égard de la fourniture ou de l’omission de la fourniture de tous autres services, renseignements, logiciels, et contenu qui s’y rapporte  grâce au Logiciel ou provenant autrement de l’utilisation du Logiciel . PAR AILLEURS, IL N’Y A AUCUNE GARANTIE OU CONDITION QUANT AU TITRE DE PROPRIÉTÉ, À LA JOUISSANCE OU LA POSSESSION PAISIBLE, À LA CONCORDANCE À UNE DESCRIPTION NI QUANT À UNE ABSENCE DE CONTREFAÇON CONCERNANT LE LOGICIEL.
+EXCLUSION DES DOMMAGES ACCESSOIRES, INDIRECTS ET DE CERTAINS AUTRES DOMMAGES. DANS LA MESURE MAXIMALE PERMISE PAR LES LOIS APPLICABLES, EN AUCUN CAS MICROSOFT OU SES FOURNISSEURS NE SERONT RESPONSABLES DES DOMMAGES SPÉCIAUX, CONSÉCUTIFS, ACCESSOIRES OU INDIRECTS DE QUELQUE NATURE QUE CE SOIT (NOTAMMENT, LES DOMMAGES À L’ÉGARD DU MANQUE À GAGNER OU DE LA DIVULGATION DE RENSEIGNEMENTS CONFIDENTIELS OU AUTRES, DE LA PERTE D’EXPLOITATION, DE BLESSURES CORPORELLES, DE LA VIOLATION DE LA VIE PRIVÉE, DE L’OMISSION DE REMPLIR TOUT DEVOIR, Y COMPRIS D’AGIR DE BONNE FOI OU D’EXERCER UN SOIN RAISONNABLE, DE LA NÉGLIGENCE ET DE TOUTE AUTRE PERTE PÉCUNIAIRE OU AUTRE PERTE DE QUELQUE NATURE QUE CE SOIT) SE RAPPORTANT DE QUELQUE MANIÈRE QUE CE SOIT À L’UTILISATION DU LOGICIEL OU À L’INCAPACITÉ DE S’EN SERVIR, À LA PRESTATION OU À L’OMISSION DE LA PRESTATION DE SERVICES DE SOUTIEN TECHNIQUE OU À LA FOURNITURE OU À L’OMISSION DE LA FOURNITURE DE TOUS AUTRES SERVICES, RENSEIGNEMENTS, LOGICIELS, ET CONTENU QUI S’Y RAPPORTE  GRÂCE AU LOGICIEL OU PROVENANT AUTREMENT DE L’UTILISATION DU LOGICIEL OU AUTREMENT AUX TERMES DE TOUTE DISPOSITION DE LA PRÉSENTE CONVENTION OU RELATIVEMENT À UNE TELLE DISPOSITION, MÊME EN CAS DE FAUTE, DE DÉLIT CIVIL (Y COMPRIS LA NÉGLIGENCE), DE RESPONSABILITÉ STRICTE, DE VIOLATION DE CONTRAT OU DE VIOLATION DE GARANTIE DE MICROSOFT OU DE TOUT FOURNISSEUR ET MÊME SI MICROSOFT OU TOUT FOURNISSEUR A ÉTÉ AVISÉ DE LA POSSIBILITÉ DE TELS DOMMAGES.
+LIMITATION DE RESPONSABILITÉ ET RECOURS. MALGRÉ LES DOMMAGES QUE VOUS PUISSIEZ SUBIR POUR QUELQUE MOTIF QUE CE SOIT (NOTAMMENT, MAIS SANS LIMITATION, TOUS LES DOMMAGES SUSMENTIONNÉS ET TOUS LES DOMMAGES DIRECTS OU GÉNÉRAUX OU AUTRES), LA SEULE RESPONSABILITÉ DE MICROSOFT ET DE L’UN OU L’AUTRE DE SES FOURNISSEURS AUX TERMES DE TOUTE DISPOSITION DE LA PRÉSENTE CONVENTION ET VOTRE RECOURS EXCLUSIF À L’ÉGARD DE TOUT CE QUI PRÉCÈDE (SAUF EN CE QUI CONCERNE TOUT RECOURS DE RÉPARATION OU DE REMPLACEMENT CHOISI PAR MICROSOFT À L’ÉGARD DE TOUT MANQUEMENT À LA GARANTIE LIMITÉE) SE LIMITE AU PLUS ÉLEVÉ ENTRE LES MONTANTS SUIVANTS : LE MONTANT QUE VOUS AVEZ RÉELLEMENT PAYÉ POUR LE LOGICIEL OU 5,00 $US. LES LIMITES, EXCLUSIONS ET DÉNIS QUI PRÉCÈDENT (Y COMPRIS LES CLAUSES CI-DESSUS), S’APPLIQUENT DANS LA MESURE MAXIMALE PERMISE PAR LES LOIS APPLICABLES, MÊME SI TOUT RECOURS N’ATTEINT PAS SON BUT ESSENTIEL.
+À moins que cela ne soit prohibé par le droit local applicable, la présente Convention est régie par les lois de la province d’Ontario, Canada. Vous consentez à la compétence des tribunaux fédéraux et provinciaux siégeant à Toronto, dans  la province d’Ontario.
+Au cas où vous auriez des questions concernant cette licence ou que vous désiriez vous mettre en rapport avec Microsoft pour quelque raison que ce soit, veuillez utiliser l’information contenue dans le Logiciel pour contacter la filiale de Microsoft desservant votre pays, ou visitez Microsoft sur le World Wide Web à http://www.microsoft.com.
+
+NVIDIA End-User License Agreement for PGI Software
+
+NOTICE: PLEASE READ THIS DOCUMENT CAREFULLY BEFORE DOWNLOADING, COPYING OR
+USING THE LICENSED SOFTWARE. THIS END-USER LICENSE AGREEMENT ("ELA") IS A
+LEGAL AGREEMENT BETWEEN YOU, THE LICENSEE (A SINGLE PERSON, INSTITUTION, OR
+LEGAL ENTITY) ("YOU"), AND NVIDIA CORPORATION, A DELAWARE CORPORATION HAVING
+ITS PRINCIPAL PLACE OF BUSINESS AT 2788 SAN TOMAS EXPRESSWAY, SANTA CLARA CA
+AND ITS SUBSIDIARIES ("NVIDIA") FOR THE LICENSED SOFTWARE, ASSOCIATED MEDIA,
+PRINTED MATERIAL, ELECTRONIC DOCUMENTATION OR ANY PORTION THEREOF ("SOFTWARE").
+NVIDIA IS WILLING TO LICENSE THE SOFTWARE TO YOU ONLY UPON THE CONDITION THAT
+YOU ACCEPT ALL OF THE TERMS CONTAINED IN THIS ELA. PLEASE READ THE ELA
+CAREFULLY. BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING THIS
+SOFTWARE, YOU ACCEPT ALL OF THE TERMS OF THE ELA. IF YOU DO NOT AGREE TO THE
+TERMS OF THIS ELA, DO NOT DOWNLOAD, INSTALL, COPY OR OTHERWISE USE THIS
+SOFTWARE.
+
+1)  Ownership
+
+    The Software distributed and licensed to You hereunder, including, if
+    and when provided, any updates furnished to You for free or for
+    additional fees, is proprietary to NVIDIA or its licensors (NVIDIA and
+    licensors hereafter referred to as "Licensors"). The Software is not sold,
+    and instead is only licensed for Your use, strictly in accordance with
+    this ELA.  The Software is protected by copyright laws and international
+    treaty provisions.
+    (i)     The Licensors retain all right, title and interest to, and
+            ownership of, the Software and modifications, including their
+            respective intellectual property rights, subject to Your rights
+            under subsection 1(ii) below and the terms in Section 6.  All
+            rights not expressly granted in this ELA are reserved.
+    (ii)    You retain all right, title and interest to, and ownership of Your
+            applications and Your derivative works of the sample source code
+            delivered, including their respective intellectual property rights,
+            subject to Licensor's rights as described in subsection 1(i) above.
+
+2)  License
+
+2A) Grant
+
+    Subject to the terms and conditions of this ELA, NVIDIA hereby grants You a
+    limited, non-transferable, and non-exclusive license, without the right to
+    sublicense or distribute (except as expressly provided in this ELA), to:
+    (i)     Install and use the Software:
+            (a) only on computer system(s) running a specific operating system
+                on which the Software is designed to run and for which the
+                Software is intended to produce an executable image ("Target
+                Systems"), and
+            (b) only by the number of concurrent users for which Your
+                corresponding product configuration has been licensed,
+    (ii)    Modify and create derivative works of sample source code delivered
+            in the Software provided, however, that You do not grant to others,
+            rights to modify the sample source code provided by NVIDIA,
+    (iii)   Distribute the below described distributable Software in an
+            application that You build with the Software that provides material
+            additional functionality beyond that included with the Software
+            ("End-User Application") to users within Your organization as well
+            as third party users outside Your organization ("Sublicensees")
+            only for use on Target Systems, subject to the Distribution
+            Requirements indicated in this ELA.  The distributable Software is
+            as follows:
+            (a) Software compiled or linked into, and inseverable from, Your
+                End-User Application, or
+            (b) files contained or listed in folders or directories whose names
+                begin with "REDIST" within the Software installation ("Run-Time
+                Files") that are required by, and bundled with, Your End-User
+                Application.
+
+2B) Distribution Requirements
+
+    For Software versions that are not "Pre-Release" versions as defined in
+    Section 2C below, You may exercise the distribution license grant above
+    subject to all of the following:
+    (i)     You may identify NVIDIA as the Software licensor or NVIDIA Target
+            System compatibility, where appropriate, provided that You shall
+            not otherwise use NVIDIA's name or trademarks to market, endorse,
+            or promote any End-User Application without prior written
+            permission from NVIDIA,
+    (ii)    You will not remove any copyright or other proprietary notice from
+            the Software,
+    (iii)   Your Sublicensees shall not modify, create derivative works reverse
+            engineer, disassemble or attempt in any manner to obtain the source
+            code of the Software,
+    (iv)    You shall disclaim any and all warranties on behalf of Licensors,
+    (v)     You shall disclaim, to the maximum extent permitted by law,
+            Licensors' and their respective affiliates' liability for all
+            damages, direct or indirect, incidental or consequential, that may
+            arise from any use of the Software,
+    (vi)    You shall not export the Software, directly or indirectly, in
+            violation of U.S. export control laws or any export or import
+            regulations in other countries,
+    (vii)   You shall strictly prohibit the further distribution of the
+            Run-Time Files by users of an End-User Application, and
+    (viii)  You shall include the following notice in Your modifications and
+            derivative works of sample source code that are distributed: "This
+            software contains source code provided by NVIDIA Corporation."
+
+2C) Pre-Release Software
+
+    Software versions identified as alpha, beta, preview or otherwise as
+    "Pre-Release", may not be fully functional, may contain errors or design
+    flaws, and may have reduced or different security, privacy, accessibility,
+    availability, and reliability standards relative to commercial versions of
+    NVIDIA software and materials. Use of a Pre-Release version may result in
+    unexpected results, loss of data, project delays or other unpredictable
+    damage or loss.
+
+    You may use a Pre-Release version internally, at Your own risk,
+    understanding that Pre-Release versions are not intended for distribution
+    or for use in production or business-critical systems.
+
+    Only You may use an application compiled with a Pre-Release version. You do
+    not have any rights to distribute or otherwise transfer an application
+    compiled with a Pre-Release version.
+
+    NVIDIA may choose not to make available a commercial version of any
+    Pre-Release Software. NVIDIA may also choose to abandon development and
+    terminate the availability of a Pre-Release version at any time without
+    liability.
+
+3)  Software from Microsoft
+
+    You acknowledge that as part of the Software You may receive Run-Time
+    Files in the form of Microsoft Foundation Classes ("MFCs"), Active
+    Template Libraries ("ATLs"), and/or "C" Runtime files ("CRTs") in
+    binary form only ("Microsoft Distributable Code"). Notwithstanding
+    any other provision of this ELA, You acknowledge and agree:
+    (A)     that You have a limited right to use the Microsoft Distributable
+            Code to design, develop, or test for use with the Software only,
+    (B)     that You or Your end-users of the Microsoft Distributable Code
+            may only use it to create programs that run natively on
+            Microsoft platforms, and
+    (C)     to the following restrictions: You and Your end-users:
+            (i)     will not alter any copyright, trademark, patent, or other
+                    legal notice or disclaimer in the Microsoft Distributable
+                    Code,
+            (ii)    will not run the Microsoft Distributable Code on a
+                    platform other than a Microsoft platform, and
+            (iii)   will not include Microsoft Distributable Code in
+                    malicious, deceptive, or unlawful programs.
+    Further, You will require end users of the Microsoft Distributable
+    Code to agree to terms at least as protective as this ELA.
+
+4)  Software from Oracle America, Inc.
+
+    You acknowledge that as part of the Software You are receiving access
+    to Java(tm) 2 Runtime Environment (J2RE), version 1.4.2 or subsequent
+    versions ("Java Code"). Notwithstanding any other provision of this
+    ELA, You are hereby granted a limited, revocable, nontransferable,
+    and nonexclusive license, without the right to sublicense, to use the
+    Java Code complete and unmodified for the sole purpose of running
+    Java applets and applications intended to run on the JavaTM 2
+    Platform Standard Edition 5.0 (J2SE 5.0) or subsequent versions on
+    Java-enabled general purpose desktop computers and servers.
+
+5)  Software from International Business Machines Corporation or one of its
+    subsidiaries ("IBM")
+
+    You acknowledge that some components of the Software may be owned and
+    under license from IBM ("IBM Components"). Use of IBM Components are
+    subject to Your agreement to the IBM International Program License for
+    Non-Warranted Programs (LA_*) and the License Information documents (LI_*)
+    for Your region located in the linuxpower/<version>/doc/IBM/ directory
+    (collectively, the "IBM Components Agreement").
+
+6)  Third Party Software
+
+    You acknowledge that the Software may come bundled with, or otherwise
+    include or be distributed with open source, freeware, or other software
+    provided to NVIDIA under license from third parties ("Third Party
+    Components").  Such software is provided to You subject to the terms and
+    conditions that accompany and are applied to such Third Party Components
+    by third parties, and may require notices and/or additional terms and
+    conditions, which are made a part of and incorporated by reference into the
+    ELA. Please be sure to consult the individual product files and/or
+    documentation for specific copyright notices and author attributions.  Use
+    of the Third Party Components is subject to the third party license terms
+    in addition to this ELA. To the extent the terms of this license conflict
+    with the terms of such third party licenses with respect to the Third Party
+    Components, the terms of such third party licenses will govern.
+
+7)  Restrictions
+
+7A) You may make copies of the Software in machine-readable form, solely for
+    archival or backup purposes, provided the copyright notice and other
+    proprietary legends on the Software are included on any archival/backup
+    copies. You may not modify or create derivative works, in whole or in part,
+    based on the Software, except as expressly authorized in this ELA. You may
+    not reverse engineer, de-compile, or disassemble the Software, or attempt
+    in any manner to obtain the source code. You may not rent, lease, loan,
+    sublicense, or transfer, electronically or otherwise, the Software to
+    others or authorize any portion of the Software to be copied onto another
+    individual or legal entity's computer except as expressly provided in this
+    ELA. The Software is licensed as a single product.
+
+7B) The term "proprietary" as used in this ELA or in the Software does not
+    establish a confidential relationship between the Licensor and You and
+    does not in itself provide You any rights to the Software. You acknowledge
+    that the Licensors have valuable intellectual property rights in the
+    Software and agree to respect and protect such intellectual property
+    rights. No right, title, or interest in or to any trademark, service mark,
+    logo or trade name of the Licensors is granted under this ELA.
+
+7C) You acknowledge and agree that the Software is not designed, manufactured
+    or intended for use in connection with the design, construction,
+    maintenance, and/or operation of any system or application where the use or
+    failure of such system or application could result in a situation that
+    threatens the safety of human life or results in catastrophic damages
+    (including, for example, in on-line control equipment in hazardous
+    environments such as nuclear activities, aircraft navigation or control, or
+    life support systems). The Licensors disclaim any express or implied
+    warranty of fitness for such uses. NVIDIA SHALL NOT BE LIABLE TO YOU OR ANY
+    THIRD PARTY, IN WHOLE OR IN PART, FOR ANY CLAIMS OR DAMAGES ARISING FROM
+    SUCH USES.
+
+7D) You will not use the Software so that any part of it becomes subject to an
+    Excluded License. As used in this ELA, an "Excluded License" is one that
+    requires, as a condition of use, modification, and/or distribution, that
+    (i)     the Software be disclosed or distributed in source code form; or
+    (ii)    others have a right to modify it, or
+    (iii)   the Software becomes redistributable at no charge, or
+    (iv)    the Software loses its proprietary nature.
+
+7E) Under no circumstances should anything in this ELA be construed as NVIDIA
+    granting by implication, estoppel or otherwise, (i) a license to any
+    NVIDIA product or technology other than the Software; or (ii) any
+    additional license rights for the Software other than the licenses
+    expressly granted in this ELA.
+
+8)  Feedback
+
+    You may, but are not obligated to, provide NVIDIA any suggestions, comments
+    and feedback regarding the Software delivered to You hereunder("Feedback").
+    NVIDIA and its affiliates may use and include any Feedback that You have
+    voluntarily provided to improve the Software and other NVIDIA products or
+    technologies.  Accordingly, if You provide Feedback, You grant NVIDIA and
+    its affiliates and their licensees a perpetual, irrevocable, worldwide,
+    royalty-free, fully paid-up license grant to freely use, have used, sell,
+    modify, reproduce, transmit, license, sublicense (through multiple tiers
+    of sublicensees), distribute (through multiple tiers of distributors), and
+    otherwise commercialize the Feedback in the Software and other products or
+    technologies.
+
+9)  Limited Warranty; Limitation of Liability
+
+    THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. TO THE
+    MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSORS FURTHER DISCLAIM
+    ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY
+    IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+    AND NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE
+    OF THE SOFTWARE AND DOCUMENTATION REMAINS WITH YOU. TO THE MAXIMUM EXTENT
+    PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSORS BE LIABLE FOR
+    ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE,OR OTHER DAMAGES
+    WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS
+    PROFITS, BUSINESS INTERRUPTION,LOSS OF BUSINESS INFORMATION,LOSS OF DATA OR
+    OTHER PECUNIARY LOSS)ARISING OUT OF THIS ELA OR THE USE OF OR INABILITY TO
+    USE THE SOFTWARE,EVEN IF THE LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY
+    OF SUCH DAMAGES. NOTWITHSTANDING THE FOREGOING, TO THE EXTENT THAT NVIDIA
+    MAY BE HELD LEGALLY LIABLE TO YOU BY A COURT OF COMPETENT JURISDICTION
+    UNDER CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, THE MAXIMUM LIABILITY OF
+    THE LICENSORS SHALL NOT EXCEED THE APPLICABLE PURCHASE PRICE OF THE
+    SOFTWARE OR ONE THOUSAND DOLLARS (US$1,000), WHICHEVER IS GREATER.
+
+    NVIDIA has no obligation to support or provide any updates of the Software.
+
+    You agree that You are solely responsible for maintaining appropriate data
+    backups and system restore points for Target Systems.
+
+10) Indemnity and Audit
+
+    You agree to indemnify, defend, and hold the Licensors and their respective
+    employees, directors, officers, and agents harmless from and against any
+    and all claims, liabilities, damages, penalties, settlements, and costs and
+    expenses (including, without limitation, reasonable attorneys' fees and
+    court or arbitration costs), (collectively "Claims") arising from, or
+    resulting from:
+    (i)     Your breach of any term or condition of this ELA;
+    (ii)    alleged or actual infringement of the intellectual property or
+            other proprietary rights of a third party by You or Your
+            Sublicensees; 
+    (iii)   the use, modifications, derivative works or distribution of the
+            Software by You or Your Sublicensees;
+    (iv)    combination of the Software or derivative products with other
+            software, products or materials not in accordance with the terms
+            of this ELA; or
+    (v)     any acts or omissions by You, Your employees, directors, officers,
+            and agents or Sublicensees either under this ELA or outside its
+            scope, including personal injury, death, or property damage to
+            anyone or anything.
+
+    NVIDIA reserves the right, upon reasonable prior written notice to You and
+    during Your normal business hours, to audit Your use of the Software and
+    any derivative products made therefrom to confirm Your compliance with the
+    terms of this ELA.
+
+11) Software Export
+
+    You acknowledge that the Software and NVIDIA products are subject to the
+    U.S. Export Administration Regulations (the "EAR") and agree to comply with
+    the EAR. You confirm that You will not export or re-export the Software or
+    any NVIDIA products, directly or indirectly, to: (1) any countries that are
+    subject to US export restrictions (currently including, but not necessarily
+    limited to, Cuba, Iran, North Korea, Sudan, and Syria); (2) any end user
+    who You know or have reason to know will utilize them in the design,
+    development or production of nuclear, chemical or biological weapons, or
+    rocket systems, space launch vehicles, and sounding rockets, or unmanned
+    air vehicle systems; or (3) any end user who has been prohibited from
+    participating in U.S. export transactions by any federal agency of the U.S.
+    government. In addition, You are responsible for complying with any local
+    laws which may impact Your right to import, export or use the Software or
+    any NVIDIA products.  You acknowledge that the use of the Software or any
+    NVIDIA products by military end-users or for military end-uses is
+    prohibited in China.
+
+12) Software Manuals
+
+    All proprietary documentation provided with the Software is copyrighted and
+    may not be copied, photographed, reproduced, translated or reduced to any
+    electronic medium or machine-readable form in whole or in part without the
+    express, written, prior approval of NVIDIA.
+
+13) Government Use 
+
+    The Software has been developed at private expense and is "commercial item"
+    consisting of "commercial computer software" and "commercial computer
+    software documentation" provided with RESTRICTED RIGHTS. Use, duplication
+    or disclosure by the U.S. Government or a U.S. Government subcontractor is
+    subject to the restrictions in this ELA pursuant to DFARS 227.7202-3(a) or
+    as set forth in subparagraphs(b)(1) and (2) of the Commercial Computer
+    Software - Restricted Rights clause at FAR 52.227-19, as applicable.
+    Contractor/manufacturer is NVIDIA, 2788 San Tomas Expressway, Santa Clara,
+    CA 95051.
+
+14) Termination
+
+    The license granted to You in this ELA is effective until terminated.
+
+14A) This ELA will automatically terminate if You fail to comply with any of
+    the terms and conditions hereof. You may terminate the license at any time
+    by returning and/or destroying the Software together with all copies.
+    Upon termination of the license for any reason, You agree to destroy all
+    copies of the Software.
+
+14B) Defensive Suspension
+
+    If You commence or participate in any legal proceeding against NVIDIA with
+    respect to the Software, then NVIDIA may, in its sole discretion, suspend
+    or terminate license grants or any other rights provided under this ELA
+    during the pendency of such legal proceedings.
+
+15) Surviving Terms
+
+    In the event this ELA is terminated for any reason, all provisions shall
+    survive termination except for the license grants to You.
+
+16) No Assignment
+
+    This ELA, and each party's rights and obligations herein, may not be
+    assigned, subcontracted, delegated, or otherwise transferred by You without
+    NVIDIA's prior written consent, and any attempted assignment, subcontract,
+    delegation, or transfer in violation of the foregoing will be null and
+    void. The terms of this ELA shall be binding upon assignees.
+
+17) Controlling Law and Complete Agreement
+
+    This ELA shall be construed and interpreted under the laws of the state of
+    Delaware, not including its conflict of laws principles. The United Nations
+    Convention on Contracts for the International Sale of Goods is specifically
+    disclaimed. You and NVIDIA agree that all disputes arising out of this ELA
+    shall be subject to the exclusive jurisdiction of and venue in the federal
+    and state courts within Santa Clara County, California, and both parties
+    hereby consent to the personal and exclusive jurisdiction and venue of
+    these courts. If any provision of this ELA, or portion thereof, is found to
+    be unenforceable, that provision shall be enforced to the maximum extent
+    possible and the remainder of this ELA shall continue in full force and
+    effect.
+
+18) Privacy Notice & Consent to Collection and Use of Information
+
+    You hereby acknowledge that during installation and compilation the
+    Software may access and collect data in order to: (a) properly configure
+    and optimize for Target Systems; b) deliver content or service through the
+    Software; and (c) improve NVIDIA products and services. Information
+    collected by the Software may include: (i) configuration data and ID; (ii)
+    operating system and driver configuration; (iii) installed applications;
+    (iv) applications settings, performance and usage data; and (v) usage
+    metrics of the Software.
+
+    NVIDIA may require certain personal information such as Your name, email
+    address and PGI user credentials in order to deliver or provide products
+    or services to You.
+
+    The Software may contain links to websites and services. NVIDIA encourages
+    You to review the privacy statements on those sites and services that You
+    choose to visit so that You can understand how they may collect, use and
+    share Your data.  NVIDIA is not responsible for the privacy statements or
+    practices of sites and services controlled by other companies or
+    organizations.
+
+    You should review the NVIDIA Privacy Policy, located at
+    https://www.nvidia.com/en-us/about-nvidia/privacy-policy/, which explains
+    NVIDIA's policy for collecting and using data, as well as visit the PGI
+    User Account Center, located at https://www.pgroup.com/account/, and/or
+    the NVIDIA Privacy Center, located at
+    https://www.nvidia.com/en-us/privacy-center/, to manage Your consent and
+    privacy preferences.
+
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS ELA AND AGREE TO BE BOUND BY ITS TERMS.
+YOU FURTHER AGREE THAT IT IS THE COMPLETE AND EXCLUSIVE STATEMENT OF AGREEMENT
+BETWEEN YOU AND NVIDIA AND THAT IT SUPERSEDES ANY PRIOR AGREEMENT, ORAL OR
+WRITTEN, ANY PROPOSAL, AND ANY OTHER COMMUNICATIONS BETWEEN YOU AND NVIDIA
+RELATING TO THE SUBJECT MATTER OF THIS ELA.
+
+Rev 2019-Jan
+
+END-USER LICENSE AGREEMENT FOR AUDIONOTE - NOTEPAD AND VOICE RECORDER
+
+IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS PROGRAM INSTALL:
+
+Luminant Software's End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Luminant Software for the Luminant Software software product(s) identified above which may include associated software components, media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and Luminant Software, (referred to as "licenser"), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT. 
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold. 
+
+1. GRANT OF LICENSE. 
+ The SOFTWARE PRODUCT is licensed as follows: 
+(a) Installation and Use.
+ Luminant Software grants you the right to install and use copies of the SOFTWARE PRODUCT on your computer running a validly licensed copy of the operating system for which the SOFTWARE PRODUCT was designed [e.g., Windows XP, Windows Vista, Windows 7].
+(b) Backup Copies.
+ You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.
+(c) Product Keys.
+ Luminant Software grants you the right to use purchased product keys for the SOFTWARE PRODUCT, limited to one user per key, on up to three computers.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+(a) Maintenance of Copyright Notices.
+ You must not remove or alter any copyright notices on any and all copies of the SOFTWARE PRODUCT.
+(b) Distribution.
+ You may not distribute registered copies of the SOFTWARE PRODUCT to third parties.
+(c) Prohibition on Reverse Engineering, Decompilation, and Disassembly.
+ You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. 
+(d) Rental.
+ You may not rent, lease, or lend the SOFTWARE PRODUCT.
+(e) Support Services.
+ Luminant Software may provide you with support services related to the SOFTWARE PRODUCT ("Support Services"). Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA. 
+(f) Compliance with Applicable Laws.
+ You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.
+
+3. TERMINATION 
+ Without prejudice to any other rights, Luminant Software may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.
+
+4. COPYRIGHT
+ All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by Luminant Software or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by Luminant Software. 
+
+5. NO WARRANTIES
+ Luminant Software expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided 'As Is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, noninfringement, or fitness of a particular purpose. Luminant Software does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. Luminant Software makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm, time bomb, logic bomb, or other such computer program. Luminant Software further expressly disclaims any warranty or representation to Authorized Users or to any third party.
+
+6. LIMITATION OF LIABILITY
+ In no event shall Luminant Software be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'Authorized Users' use of or inability to use the SOFTWARE PRODUCT, even if Luminant Software has been advised of the possibility of such damages. In no event will Luminant Software be liable for loss of data or for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. Luminant Software shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, libel, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information.
+
+7. ADDITIONAL SOFTWARE
+Luminant Software may include one or more software components provided by third parties.  Your use of the SOFTWARE PRODUCT is subject to the following additional terms.
+
+(a) Tar-CS (http://code.google.com/p/tar-cs/)
+
+BSD License
+
+Copyright (c) 2009, Vladimir Vasiltsov All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    * Names of its contributors may not be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+ACTIFIO, INC.
+
+END USER LICENSE AGREEMENT
+
+
+THIS IS A BINDING AGREEMENT BETWEEN ACTIFIO, INC. ("ACTIFIO") AND YOU OR, IF YOU REPRESENT A LEGAL ENTITY, THE LEGAL ENTITY YOU REPRESENT (COLLECTIVELY, YOU"). DO NOT CLICK "ACCEPT" UNTIL YOU HAVE CAREFULLY READ THIS AGREEMENT. BY  CLICKING "ACCEPT," YOU ARE AGREEING TO ALL THE TERMS AND  CONDITIONS OF THIS AGREEMENT, INCLUDING THE LIMITATIONS ON LIABILTY SET FORTH HEREIN. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THAT LEGAL ENTITY TO THIS AGREEMENT.  
+
+IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU ARE NOT PERMITTED TO DOWNLOAD, INSTALL OR USE THE SOFTWARE.
+
+IF YOU HAVE ANY QUESTIONS ABOUT THESE TERMS AND CONDITIONS, PLEASE CONTACT: ACTIFIO, INC., 333 WYMAN STREET, WALTHAM, MA 02451.
+This Agreement sets forth the terms and conditions of your use of the Software and Hardware (each as defined below) provided by Actifio (collectively, the "Solution").
+         
+1.	LICENSE.	
+
+(a)	Grant.  Actifio hereby grants to you, and you hereby accept, subject to the terms and conditions set forth herein, a non-exclusive, non-transferable license, without the right to sublicense, to use the computer-executable object code of the software made available as part of the Solution (including any updates made available to you, the "Software"), and use the user guides and manuals (the "Documentation") solely in connection with the hardware with which it is provided (the "Hardware") and with your permitted use of the Solution.  Your license shall be effective during the subscription term (unless you license the Software on a perpetual basis) and for the solution and usage limits specified in the Actifio proposal accepted by you or in the on the order placed by you with Actifio or an Actifio reseller (either, the "Order"), and any renewals of such term, and only so long as you have paid all applicable fees. You may use the Solution solely for your own internal business purposes, and shall not use the Solution for the provision of any service for the benefit of any third party.  However, if so authorized in your Order, you may use the Solution for the provision of data backup, disaster recovery and business continuity services to third parties (collectively, "Your Customers"), and you may allow Your Customers to access the Solution for their own internal business purposes in connection with receiving such services pursuant to agreements that are no less protective of Actifio's intellectual property rights than the terms and conditions set forth in this Agreement.  You shall be responsible for providing all first-level and second-level technical support to Your Customers.
+
+(b)	Ownership.  You acknowledge that (i) all right, title and interest in all copies of the Software and Documentation, and all patents, copyrights, trade secrets and other proprietary rights therein, are and shall remain with Actifio or its third party licensors; (ii) no right or interest in the Software or Documentation is conveyed other than a limited license to use them in accordance with this Agreement; (iii) the Software and Documentation are protected by the copyright laws of the United States and by international treaties; and (iv) the Software and Documentation embody valuable confidential and secret information of Actifio.
+
+(c)	Copying.  You may make a reasonable number of copies of the Software and Documentation for archival and back-up purposes only; provided that you include on each such copy all copyright or other proprietary notices contained on the Software and Documentation.
+
+(d)	No Modification.  You may not (i) modify or alter the Software; (ii) create derivative works of the Software; (iii) decompile, disassemble or reverse engineer the Software; (iv) translate the Software; or (iv) reduce the Software by any other means to a human-perceivable form.
+
+(e)	Certain Other Restrictions.  You may not (i) sell, rent, transfer, lend, provide or otherwise make available, or disclose to third parties, the Software or Documentation (except to independent contractors performing services directly for you and at your direction, provided that such persons are obligated to maintain the confidentiality thereof and you shall be responsible for the actions or omissions of such contractors); or (ii) remove or alter any copyright or other proprietary notices contained in the Software or Documentation.  You shall maintain all copies of the Software and Documentation in a manner so as to reasonably prevent the unauthorized use of the Software and Documentation.  You may not publish or disclose to any third party the results of any benchmark or comparison tests run on the Software without the prior written consent of Actifio.
+
+(f)	Components.  The Software may contain or be provided with certain third party software licensed by its owners under its own license (collectively, the "Third Party Software").  Third Party Software is subject to the terms of the third party software license accompanying or otherwise applicable to that Third Party Software ("Third Party License"). The Third Party Licenses are set forth in the Documentation.  The terms of the applicable Third Party License will apply to the Third Party Software independent of the terms of this Agreement. You may not use any component contained in or provided with the Software on a standalone basis or to interoperate with any program(s) other than the Software.
+
+(g)	High Risk Activities.  The Software is not designed, manufactured, or intended for use in medical, nuclear, aviation, navigation, military or other high risk activities where failure of the Solution could lead directly to death, personal injury and/or substantial property damage.  You agree not to use the Solution for any such purposes, and Actifio and its licensors and suppliers expressly disclaim and are released from any responsibility or liability for any and all damages that may be incurred due to the use of the Software in such applications.  The provisions of this Section 1(g) shall inure to the benefit of any licensor or supplier of Actifio and any such licensor or supplier may directly enforce the terms of this Section 1(g).
+
+(h)	Usage Report.  The Solution will automatically generate and deliver a report (the "Usage Report") to both parties, detailing your use of Solution. You agree not to block or interfere with the Usage Report.  Actifio shall not use any of your Confidential Information by virtue of the Solution generating the Usage Report.  If the Usage Report indicates your use of the Solution has exceeded that for which it is authorized under the applicable Order, you shall promptly pay the any additional fees payable with respect to such excess use at the rates and charges set forth in the Order.
+
+(i) 	 Hardware.  The Hardware will be properly contained, packaged, marked and shipped with its own documentation.  The Hardware will be free and clear of all liens and encumbrances.  If applicable, You will receive any and all pass-through warranties from the manufacturer of the Hardware.  Hardware is shipped FCA Actifio, with title and risk of loss transferring to You upon delivery to the carrier, unless You are leasing the Hardware as part of a subscription arrangement, in which case  you agree:  (i) to maintain the Hardware properly; (ii) to insure the Hardware and accept responsibility for any loss or damage to the Hardware while in its possession; (c) to notify Actifio if You move the Hardware; and (iv) to allow Actifio to reclaim the Hardware should You be in breach of its payment obligations or upon any termination of this Agreement..  You will be responsible for all shipping charges.
+
+(j) 	Payment.  Actifio will invoice You for the prices set forth in the applicable Order upon shipment of the Solution to You. You will pay invoices within thirty (30) days of the invoice date. Actifio may withhold shipments and cease providing support until past-due payments are made.  Late payments are subject to a charge of the lesser of 1.5% per month or the maximum allowed by law.  Prices do not include, and You are responsible for, all applicable taxes of any kind due in respect of the transactions contemplated by this Agreement, except taxes on Actifio's net income.
+
+2.	WARRANTY; SUPPORT.
+
+(a)	Limited Warranty.  Actifio warrants to you that, upon delivery and for a period of three (3) months thereafter for Software and twelve (12) months thereafter for Hardware (the "Warranty Period"), the Software and Hardware, when properly used, shall be free from significant defects in materials and workmanship and shall function substantially in the manner described in the Documentation. Actifio's sole obligation under this warranty shall be to:  (i) replace, at its expense, any Software media which is defective and which is returned to Actifio; (ii) repair or replace, at its expense, Hardware which is defective; (iii) correct Software which is not functioning substantially in the manner described in the Documentation; or (iv) if Actifio cannot accomplish any of the foregoing remedies, (A) in the case of a perpetual license arrangement, provide a refund of the amounts paid for the defective Hardware or Software upon their return, and (B) in the case of a subscription, provide a prorated refund of the unused fees for the then-current subscription term; provided that you give Actifio written notice of your claim of defect or malfunction and reasonably detailed documentation of any such malfunction within the Warranty Period.  Actifio shall not be responsible for any defect or malfunction resulting from (1) the use of the Solution in combination with any software or hardware not provided by Actifio; (2) causes external to the Solution, such as problems with any other software, hardware, network or other infrastructure with which the Solution is used; (3) improper or negligent installation, configuration or use or unauthorized use of the Solution; or (4) any Solution which has been altered or modified by anyone other than Actifio.
+
+(b)	Support.  Actifio shall provide support to you with respect to the Solution at the prices and subject to the other terms and conditions of Actifio's support policy in effect from time to time, which is available at www.actifio.com/supportpolicy-vdp. Support will be provided for the support term indicated on your Order, and any renewals of such term, so long as you are current on all payments hereunder.
+
+(c)	Disclaimer of Other Warranties.  EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH ABOVE, ACTIFIO AND ITS THIRD PARTY LICENSORS MAKE NO OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND TITLE, ALL OF WHICH IMPLIED WARRANTIES (AND ALL EXPRESS WARRANTIES NOT STATED HEREIN) ARE EXCLUDED AND DISCLAIMED. WITHOUT LIMITING THE FOREGOING, ACTIFIO DOES NOT WARRANT THAT THE SOLUTION WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOLUTION WILL BE UNINTERRUPTED OR ERROR FREE.
+
+3.	INTELLECTUAL PROPERTY INFRINGEMENT.
+
+(a)	By Actifio.  Except as set forth below, Actifio will defend at its expense any action brought against you to the extent that it is based on a claim that the Solution, when properly used within the scope of this Agreement, infringes a United States patent, copyright or trade secret of any third party, and Actifio will pay any costs, damages and reasonable attorneys' fees finally awarded against you in, or payable in settlement of, such action which are directly attributable to such claim; provided that (i) Actifio is notified in writing promptly of the claim, (ii) you permit Actifio to assume sole control of the defense, compromise or settlement of said claim, and (iii) you provide to Actifio reasonable cooperation, information and assistance in connection therewith.  If a final injunction is obtained against your use of the Solution by reason of infringement, or if in Actifio's opinion the Solution is likely to become the subject of a successful claim of such infringement, Actifio may, at its option, either procure for you the right to continue using the Solution or replace or modify the same so that it becomes non-infringing (so long as the functionality is essentially unchanged).  In the event that neither of the foregoing is reasonably available, Actifio shall accept the return of the Solution, and Actifio, or Actifio's reseller, shall grant to you a credit equal to (x) in the case of subscriptions, the amounts paid by You for any period of time during which You are unable to use the Solution, and (y) in the case of perpetual licenses, the fees paid by you for the Solution, less depreciation calculated on a straight-line basis over a five-year period.
+
+(b)	By You.  Actifio shall have no liability to you, and you shall, on the terms set forth above, defend and indemnify Actifio against, claims of infringement based on (i) the use or combination of the Solution with any other software or hardware not provided by Actifio, if such infringement would not have occurred but for such use or combination, (ii) any modification of the Solution by anyone other than Actifio, (iii) the use of other than the current version of the Solution, if such version was made available by Actifio for no additional fees with notice that such version was being provided in order to avoid an alleged or potential infringement, (iv) compliance with your designs or instructions, or (v) claims of infringement of patents, copyrights or trade secrets of you or your affiliates.
+
+(c)	Entire Liability.  THE FOREGOING STATES THE ENTIRE LIABILITY OF ACTIFIO WITH RESPECT TO INFRINGEMENT OR ALLEGED INFRINGEMENT OF ANY PATENT, COPYRIGHT, TRADE SECRET OR OTHER PROPRIETARY RIGHT.
+
+4.	CONFIDENTIALITY.
+
+(a)	"Confidential Information" means all confidential or proprietary information that is made available by one party ("Discloser") to the other party ("Recipient"), including, without limitation, information about Discloser's business, finances, operations, customers, suppliers, employees, products, plans or technology, if (i) such information is in writing and marked as proprietary or confidential, or (ii) such information is disclosed orally or visually and identified as proprietary or confidential, at or prior to disclosure, or (iii) it would be apparent to a reasonable person, familiar with Discloser and the industry in which it operates, that such information is of a proprietary or confidential nature.  The Software and Documentation shall be deemed to embody Confidential Information of Actifio, whether or not so labeled.  
+
+(b)	Treatment of Confidential Information.  Recipient shall hold all Confidential Information of Discloser in confidence and shall protect such Confidential Information from unauthorized use, publication or dissemination with the same degree of care normally used to protect its own confidential information, but in no event less than a reasonable degree of care.  Recipient shall not disclose any Confidential Information of Discloser to any person outside of Recipient's organization (other than Recipient's counsel, accountants or financial advisors, and only if the same are bound to protect the confidentiality thereof).  Recipient shall disclose Confidential Information of Discloser only to persons within Recipient's organization who have a need to know in the course of performing their duties and who are bound to protect the confidentiality of such Confidential Information.  Recipient shall use Confidential Information of Discloser only for the purpose for which it was disclosed and shall not use or exploit such Confidential Information for its own benefit or the benefit of any other party. 
+ 
+(c)	Release from Restrictions.  The obligations of Recipient specified in Section 4(b) shall not apply with respect to any Confidential Information of Discloser to the extent that such: (i) is or becomes generally known to the public through no wrongful act on the part of Recipient; (ii) is in Recipient's possession at the time of disclosure by Discloser otherwise than as a result of a breach of any legal obligation by Recipient or any other party from whom Recipient has obtained such information; (iii) becomes known to Recipient through disclosure by sources other than Discloser having the legal right to possess and disclose such Confidential Information; (iv) is developed independently by Recipient without use of or reference to any Confidential Information; (v) is the subject of written permission to disclose provided by the Discloser; or (vi) is required to be disclosed by Recipient in response to a valid court order or to comply with applicable laws or governmental regulations, provided that Recipient provides to Discloser prior written notice of such disclosure and a reasonable opportunity to contest such disclosure and thereafter cooperates with Discloser to minimize the extent and scope of such disclosure 
+
+5.	LIMITATION OF LIABILITY.
+
+EXCEPT FOR BREACHES OF ITS CONFIDENTIALITY OBLIGATIONS UNDER SECTION 4 AND EXCEPT FOR CLAIMS ARISING UNDER SECTION 3, YOU AGREE THAT THE MAXIMUM LIABILITY OF ACTIFIO ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR OTHERWISE, SHALL NOT EXCEED THE ACTUAL SOLUTION FEES RECEIVED BY ACTIFIO FROM YOU OR YOUR ACTIFIO RESELLER FOR THE IMMEDIATELY PRECEDING TWELVE-MONTH PERIOD. IN NO EVENT WILL ACTIFIO BE LIABLE FOR SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, RELIANCE OR EXEMPLARY DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF DATA OR LOSS OF USE DAMAGES, EVEN IF ACTIFIO HAS BEEN ADVISED OF THE POSSIBILITY OF THE SAME.  This Section 5 shall apply notwithstanding the failure of any remedy provided in this Agreement.
+
+6. 	TERM AND TERMINATION.
+
+(a)	Term.  This Agreement shall commence upon your download or installation of the Software and shall continue in effect for the license term specified in your Order, and any renewals of such term (or perpetually, if so stated in the Order), or until earlier termination in accordance with this Section.
+
+(b)	Termination for Cause.  Either party shall have the right to terminate this Agreement upon written notice to the other party, in the event that the other party: (i) breaches any of the material terms or obligations, including payments to Actifio, under this Agreement and fails to cure such breach within thirty (30) days after notice thereof; or (ii) dissolves, is declared insolvent or bankrupt, makes an assignment for the benefit of creditors, has a receiver appointed, or is the subject of any proceeding under any bankruptcy or insolvency laws, which proceeding, if initiated against such party, is not dismissed within thirty (30) days.
+
+(c)	Consequences of Termination.  Upon termination of this Agreement for any reason, you shall (i) cease to use the Solution, (ii) return the Hardware to Actifio in the form in which it was provided to you, reasonable wear-and-tear excepted, unless you have purchased the Hardware, (iii) return to Actifio or destroy all copies of the Software and Documentation, (iv) erase all copies which are stored in computer memory or hard disk or other similar forms or media, and (v) within ten days of such termination, furnish written notice to Actifio that all such copies have been returned, destroyed and erased.  The following shall survive the termination of this Agreement: (i) all liabilities accrued under this Agreement prior to the effective date of termination; and (ii) all provisions of Sections 1(b), 1(d), 1(e), 1(j), 2(c) and 3 - 7 of this Agreement.  Subject to the provisions of Section 5, the rights provided in this Section 6 shall be in addition to any and all rights and remedies available to a non-defaulting party at law or in equity upon any breach of this Agreement by the other party.
+
+7. 	MISCELLANEOUS.
+
+(a)	Entire Agreement.  This sets forth the complete understanding of the parties with respect to the subject matter hereof and supersedes all prior understandings and communications relating thereto.  No term or condition of your purchase order or other document provided to Actifio which is different from, inconsistent with, or in addition to the terms and conditions set forth herein will be binding upon Actifio. To the extent that this document may constitute an acceptance, this acceptance is expressly conditioned on your assent to the terms and conditions set forth herein.
+
+(b)	Compliance with Laws.  You shall comply with all applicable laws and regulations relating to you use of the Solution, including without limitation, those relating to export and import, privacy and personal data protection, and shall indemnify Actifio for any losses which it may incur in the event of any failure by you to so comply.  Without limiting the foregoing, you agree that you shall not directly or indirectly, export, re-export or transship the Solution in violation of any applicable export control laws or regulations promulgated and administered by the governments of the countries claiming jurisdiction over the parties or transactions ("Export Laws").  In addition, you represent and warrant that you are not a citizen of, or located within, an embargoed or otherwise restricted nation, nor are you listed on the U.S. Treasury Department's list of Specially Designated Nationals or similar lists of denied parties.
+
+(c)	Modification; Waiver.  This Agreement may not be modified or amended except pursuant to a written instrument signed by both parties.  The waiver by either party of a breach of any provision hereof shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of such party to avail itself of any right, power or privilege that it has or may have hereunder operate as a waiver of any right, power or privilege.
+
+(d)	Governing Law.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts (USA) as if made in and performed entirely within Massachusetts.  The parties expressly reject any application to this Agreement of the United Nations Convention on Contracts for the International Sale of Goods.
+
+(e)	Successors and Assigns.  This Agreement is binding upon and inures to the benefit of the parties hereto and their respective successors and assigns.  Neither party may assign or otherwise transfer this Agreement or its rights and duties without the prior written consent of the other party, except that no such consent will be required for assignments or transfers to an affiliate or in connection with a merger, acquisition, financing, or similar transaction.
+
+(f)	Severability.  In the event that any provision contained herein shall for any reason be held invalid, illegal or unenforceable in any respect by a court of competent jurisdiction, to such extent such provision shall be deemed null and void and severed from this Agreement, and the remainder hereof shall remain in full force and effect.
+
+(g)	Headings.  The headings of the sections of this Agreement are for convenience of reference only and shall not be considered in construing this Agreement.
+
+(h)	Notices.  Notices in connection with this Agreement must be in writing and either delivered in person or by recognized commercial courier or certified mail, postage and fees prepaid, return receipt requested, and addressed (i) if to Actifio, at the address set forth above; and (ii) if to you, to the address provided by you to Actifio, or to such other address as the addressee shall have specified by notice hereunder. Notices shall be deemed effective when received or, if delivery is refused, when delivery is attempted.
+
+(i)	Notice to U.S. Government End Users.  The Software and Documentation are "Commercial Items", as that term is defined at 48 C.F.R. 2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. 12.212 or 48 C.F.R. 227.7202, as applicable. Consistent with 48 C.F.R. 12.212 or 48 C.F.R. 227.7202-1 through 227.7202-4, as applicable, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users and U.S. Government contractors (i) only as Commercial Items and (ii) with only those rights as are granted to all other end users pursuant to the terms and conditions herein.
+
+(j)	Rights of Licensors.  The provisions of this Agreement shall inure to the benefit of any licensor or supplier of Actifio, and all such licensors and their affiliates (i) disclaim any and all warranties to you; and (ii) disclaim, to the maximum extent permitted by law, liability to you for damages that might arise from your use of the Solution.
+
+(k)	Force Majeure.  Neither party shall be responsible for any failure to perform its obligations under this Agreement (other than obligations to pay money) caused by an event beyond its reasonable control, including but not limited to, wars, riots, labor strikes, natural disasters, the infrastructure of the Internet, or any law, regulation, ordinance or other act or order of any court, government or governmental agency.
+
+(l)	Future Commitments.  Actifio has made no commitments or promises orally or in writing with respect to delivery of any future software features or functions. In relation to any future software features or functions, all presentations, RFP responses and/or product roadmap documents, information or discussions, either prior to or following the date herein, are for informational purposes only, and Actifio has no obligation to provide any future releases or upgrades or any features, enhancements or functions, unless delivered under a support program or specifically agreed to in writing by both parties. Customer acknowledges that no purchasing decisions are based upon any future software features or functions.
+
+(m)	Publicity.  Actifio may include your name and logo on its customer lists and reference the fact that you are a customer of Actifio, subject to Actifio's confidentiality obligations under Section 4. However, neither party may issue a press release regarding this Agreement without the other party's prior written approval (which will not be unreasonably withheld or delayed).  
+
+(n)	Evaluation or Beta Products.  In the event Actifio provides Customer with any evaluation or beta products in connection with this Agreement, Customer agrees that any such products will be used for testing or evaluation purposes only for the agreed upon period.  All such products are provided AS IS, with all faults, with no warranties or representations (express or implied) whatsoever. ACTIFIO SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL, EXEMPLARY, DIRECT, OR PUNITIVE DAMAGES IN CONNECTION WITH THE USE OF SUCH PRODUCTS, WHETHER SUCH LIABILITY IS BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), BREACH OF WARRANTY OR OTHERWISE.
