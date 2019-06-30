@@ -21,6 +21,14 @@ from torch.autograd import Variable
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 
+def unicode_to_ascii(s):
+    all_characters = string.printable
+    return ''.join(
+        c for c in unicodedata.normalize('NFD', s)
+        if unicodedata.category(c) != 'Mn'
+        and c in all_characters
+    )
+
 def clean_file(inputfile):
     inputfile = re.sub("\n|\r", " ", inputfile)
     inputfile = re.sub(r"\s+", " ", inputfile)

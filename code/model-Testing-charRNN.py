@@ -7,7 +7,7 @@ Created on Thu Jun  6 22:10:48 2019
 """
 
 
-path = "generative_charrnn_lr_"+str(0.0025)+"_hidden_layers"+str(128)+"_nlayers_"+str(1)
+path = "../model/generative_charrnn_lr_"+str(0.0025)+"_hidden_layers"+str(128)+"_nlayers_"+str(1)
 n_characters = len(string.printable)
 model = RNN(n_characters, 128, n_characters)
 model.load_state_dict(torch.load(path))
